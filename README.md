@@ -21,3 +21,17 @@
 | Beta_1.3.0 | index.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | Beta_1.3.0 | resource.json | https://pcdownload-wangsu.aki-game.com/pcstarter/prod/game/G152/1.3.0/JNITFNSeJqvnKYvrplg3gVR71FTq6x01/resource.json |
 
+# Wuthering waves 1.4 beta 
+| Version | File name | Download link|
+| :--- | :--- | :--- |
+| Beta_1.4.0 | Launcher | XXX |
+| Beta_1.4.0 | index.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
+| Beta_1.4.0 | resource.json | XXX |
+
+# Wuthering waves 2.0 beta 
+| Version | File name | Download link|
+| :--- | :--- | :--- |
+| Beta_2.0.0 | Launcher | XXX |
+| Beta_2.0.0 | index.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
+| Beta_2.0.0 | resource.json | XXX 
+
