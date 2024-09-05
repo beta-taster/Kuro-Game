@@ -1,4 +1,5 @@
-# Wuthering-waves-Beta
+# Wuthering waves Beta CN
+# 鸣潮 Beta CN
 
 # Wuthering waves 1.1 beta 
 | Version | File name | Download link|
@@ -33,5 +34,12 @@
 | :--- | :--- | :--- |
 | Beta_2.0.0 | Launcher | XXX |
 | Beta_2.0.0 | index.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
-| Beta_2.0.0 | resource.json | XXX 
+| Beta_2.0.0 | resource.json | XXX |
+
+# Wuthering waves 2.1 beta 
+| Version | File name | Download link|
+| :--- | :--- | :--- |
+| Beta_2.1.0 | Launcher | XXX |
+| Beta_2.1.0 | index.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
+| Beta_2.1.0 | resource.json | XXX |
 
