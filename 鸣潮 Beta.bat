@@ -1,3 +1,4 @@
+// Wuthering Waves 1.3 Beta
 // Launcher
 start https://pcdownload-huoshan.aki-game.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/1.6.1.0/lrXV5DtqdqnCMFAqMctsXWmZyjLeZxHF/installer.exe
 // Launcher.json
