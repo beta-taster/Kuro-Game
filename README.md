@@ -49,3 +49,10 @@
 | Beta_2.1.0 | index.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | Beta_2.1.0 | resource.json | XXX |
 
+# Wuthering waves 2.2 beta 
+| Version | File name | Download link|
+| :--- | :--- | :--- |
+| Beta_2.2.0 | Launcher | XXX |
+| Beta_2.2.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
+| Beta_2.2.0 | index.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
+| Beta_2.2.0 | resource.json | XXX |
