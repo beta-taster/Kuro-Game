@@ -41,4 +41,4 @@
 | Beta_2.0.0 | index.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | Beta_2.0.0 | resource.json | XXX |
 
-test
+
