@@ -36,10 +36,10 @@
 # Wuthering waves 2.0 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| BETA 2.0.0 | installer.exe | XXX |
+| BETA 2.0.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/1.7.1.0/cDKioEuJvj9zCC9Q04iF3pNG2JBm9rhj/installer.exe |
 | BETA 2.0.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 2.0.0 | index.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
-| BETA 2.0.0 | resource.json | XXX |
+| BETA 2.0.0 | resource.json | https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G152/2.0.0/s3QZbNfFYWyA3MPj4HVocJ5ksc33yeLb/resource.json |
 
 # Wuthering waves 2.1 BETA 
 | Version | File name | Download link|
