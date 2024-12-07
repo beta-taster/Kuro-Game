@@ -4,9 +4,9 @@ import json
 
 # กำหนด Webhook URLs
 webhook_urls = {
-    "Teat": 'https://discord.com/api/webhooks/1291725154937999444/CeBZotZNDREE7KM7mFx7DJ--Z2TD8tKKmfgZ8gqPUrLs2Bs2rALXjm6HPqv_VKNxGfQJ',
-    "OMG Leak": 'https://discord.com/api/webhooks/1313874393532989532/0mN1RuiIcN9zDC4HmE4PIOcAPN7B73tgX2TUHMpQH3EkmRTiy5LizlR1PZsnf-J0RSQs',
-    "NotLeak": ''
+    "Teat": '',
+    "Teat": '',
+    "Teat": ''
 }
 
 # ตัวแปรสำหรับเก็บข้อมูลล่าสุด
