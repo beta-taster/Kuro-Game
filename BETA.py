@@ -4,9 +4,9 @@ import json
 
 # กำหนด Webhook URLs
 webhook_urls = {
-    "Teat": 'https://discord.com/api/webhooks/1291725154937999444/CeBZotZNDREE7KM7mFx7DJ--Z2TD8tKKmfgZ8gqPUrLs2Bs2rALXjm6HPqv_VKNxGfQJ',
-    "OMG Leak": 'https://discord.com/api/webhooks/1288821857469988965/zLuca-BLv_K1OwlSDh-zPhKw4W8yhI13uNHJkbVY-wG8I4aEG0wIF8m2RyGWPV5BT41M',
-    "NotLeak": 'https://discord.com/api/webhooks/1290276844213506098/GUgxJKlfomvt90B_kgaZmOunWiAQ6qHkOc8BuvQXHenMyeJpA6PsyTfshHslY_VjUoJp'
+    "Teat": '',
+    "Teat": '',
+    "Teat": ''
 }
 
 # ตัวแปรสำหรับเก็บข้อมูลล่าสุด
@@ -89,7 +89,7 @@ def send_webhook(data, url, title, webhook_key, last_data):
                 "color": 16771840,  # https://convertingcolors.com/decimal-color-16711680.html?search=Decimal(16711680)
                 "fields": embed_fields,
                 "image": {
-                    "url": "https://cdn.discordapp.com/attachments/1292097230924283965/1312381157286871040/2.1.png?ex=674c49b2&is=674af832&hm=930d613cd8f5b73646d753618bafa5dc048d9c6d8d91de379b5467ac3bcc9297&"  # เพิ่มรูปภาพที่ด้านล่าง
+                    "url": ""  # เพิ่มรูปภาพที่ด้านล่าง
                 }
             }
         ]
