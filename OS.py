@@ -4,8 +4,8 @@ import json
 
 # กำหนด Webhook URLs
 webhook_urls = {
-    "Teat": '',
-    "Teat": '',
+    "Teat": ''
+    "Teat": ''
     "Teat": ''
 }
 
@@ -49,35 +49,46 @@ def send_webhooks(data, url, title, last_data):
 def send_webhook(data, url, title, webhook_key, last_data):
     embed_fields = []
 
-    # คำนวณการเปลี่ยนแปลงของ "p"
-    current_p = data["default"].get("p", None)
-    last_p = last_data["default"].get("p", None) if last_data else None
+    # ข้อมูลเพิ่มเติมจาก URL
+    current_version = data["default"].get("version", "No data")
+    current_installer = data["default"].get("installer", "No data")
+    current_resources = data["default"].get("resources", "No data")
 
-    # แสดง diff ถ้ามีการเปลี่ยนแปลง
-    if current_p and current_p != last_p:
-        embed_fields.append({
-            "name": "Diff:",
-            "value": f"```diff\n- P: {last_p}\n+ P: {current_p}\n```" if last_p else f"```diff\n+ P: {current_p}\n```",
-            "inline": False
-        })
 
-    # ข้อมูลเพิ่มเติม
+    # ข้อมูลเพิ่มเติมสำหรับ "resourceChunk"
+
+
+    # ตรวจสอบว่า "predownload" มีอยู่ในข้อมูลหรือไม่
+    predownload = data["predownload"] if "predownload" in data else {}
+
+
+    predownload_resources = predownload.get("resources", "No data")
+
+
+    # เพิ่มข้อมูลลงใน embed_fields
     embed_fields.extend([
         {
             "name": "Version",
-            "value": data["default"].get("version", "No data"),
+            "value": current_version,
             "inline": True
         },
         {
             "name": "Installer",
-            "value": json.dumps(data["default"].get("installer", "No data"), ensure_ascii=False),
+            "value": json.dumps(current_installer, ensure_ascii=False),
             "inline": False
         },
         {
             "name": "Resources",
-            "value": json.dumps(data["default"].get("resources", "No data"), ensure_ascii=False),
+            "value": current_resources,  # Display the resources path as a string
+            "inline": False
+        },
+
+        {
+            "name": "Predownload Resources",
+            "value": predownload_resources,
             "inline": False
         }
+
     ])
 
     # ส่งข้อมูลไปยัง Webhook
@@ -86,7 +97,7 @@ def send_webhook(data, url, title, webhook_key, last_data):
             {
                 "title": title,
                 "description": f"{url}",  # แสดงลิงก์เท่านั้น
-                "color": 33791,  # https://convertingcolors.com/decimal-color-16711680.html?search=Decimal(16711680)
+                "color": 65535,  # สีแดง
                 "fields": embed_fields,
                 "image": {
                     "url": "https://cdn.oneesports.gg/cdn-data/2024/03/WutheringWaves_Game_Rover_Wallpaper-1024x576.jpg"  # เพิ่มรูปภาพที่ด้านล่าง
@@ -111,4 +122,4 @@ def send_webhook(data, url, title, webhook_key, last_data):
 # ตรวจสอบข้อมูลทุก 60 วินาที
 while True:
     check_for_updates()
-    time.sleep(1)
+    time.sleep(60)
