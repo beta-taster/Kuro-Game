@@ -28,7 +28,7 @@
 # Wuthering waves 2.2 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| BETA 2.2.0 | installer.exe | https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/starter/50013_HiDX7UaJOXpKl3pigJwVxhg5z1wllus5/G153/1.7.1.0/jWj43UExNCfvlLIxRQcVhhPKKF9zbdhY/installer.exe |
+| BETA 2.2.0 | installer.exe | https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/starter/50013_HiDX7UaJOXpKl3pigJwVxhg5z1wllus5/G153/2.0.0.0/3Jm5LJghEjjJhQJl0cuHa88MZefhaM28/installer.exe |
 | BETA 2.2.0 | Launcher.json | https://prod-volcdn-gamestarter.kurogame.net/pcstarter/prod/starter/50013_HiDX7UaJOXpKl3pigJwVxhg5z1wllus5/G153/index.json |
 | BETA 2.2.0 | index.json | https://prod-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G153/50013_HiDX7UaJOXpKl3pigJwVxhg5z1wllus5/index.json |
 | BETA 2.2.0 | resource.json | https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/2.2.0/PNyVttT68k0NOl81JsW0YpwiG37MtIoX/resource.json |
