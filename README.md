@@ -89,5 +89,5 @@
 | Live 2.4.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 2.4.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 2.4.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
-| BETA 2.4.0 | installer.exe |  |
-| BETA 2.4.0 | resource.json |  |
+| BETA 2.4.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/2.1.2.0/CoMkXwElzztlxatRSCvuhSgSPyOohZNI/launcher.zip |
+| BETA 2.4.0 | resource.json | https://pcdownload-huoshan.aki-game.com/launcher/game/G152/2.4.0/HVdrrqmYpgHuukuFXCpGIOJMqxDyCGjo/resource.json |
