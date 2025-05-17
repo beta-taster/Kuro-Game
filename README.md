@@ -58,5 +58,5 @@
 | Live 2.4.0 | GameBeta.json | https://prod-alicdn-gamestarter.kurogame.com/launcher/game/G153/50004_obOHXFrFanqsaIEOmuKroCcbZkQRBC7c/index.json |
 | BETA 2.4.0 | LauncherBeta.json | https://prod-volcdn-gamestarter.kurogame.net/launcher/launcher/50013_HiDX7UaJOXpKl3pigJwVxhg5z1wllus5/G153/index.json |
 | BETA 2.4.0 | GameBeta.json | https://prod-alicdn-gamestarter.kurogame.com/launcher/game/G153/50013_HiDX7UaJOXpKl3pigJwVxhg5z1wllus5/index.json |
-| BETA 2.4.0 | installer.exe |  |
-| BETA 2.4.0 | resource.json |  |
+| BETA 2.4.0 | installer.exe | https://hw-pcdownload-qcloud.aki-game.net/launcher/launcher/50013_HiDX7UaJOXpKl3pigJwVxhg5z1wllus5/G153/2.1.2.0/VQYCJroqQJvvjgjjPsqDPqrgrqttclvk/launcher.zip |
+| BETA 2.4.0 | resource.json | https://hw-pcdownload-qcloud.aki-game.net//launcher/game/G153/2.4.0/bLtQlmiWiEkszwLacJmtCsKkTbqtCHUS/resource.json |
