@@ -4,8 +4,6 @@
 # Wuthering waves 1.1 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| Live 1.1.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json |
-| Live 1.1.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 1.1.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 1.1.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | BETA 1.1.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/1.5.3.0/SW7AB9XnK9C6eXcoqInsPuSRB4bWJPuu/installer.exe |
@@ -14,8 +12,6 @@
 # Wuthering waves 1.2 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| Live 1.2.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json |
-| Live 1.2.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 1.2.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 1.2.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | BETA 1.2.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/1.5.3.0/SW7AB9XnK9C6eXcoqInsPuSRB4bWJPuu/installer.exe |
@@ -24,8 +20,6 @@
 # Wuthering waves 1.3 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| Live 1.3.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json |
-| Live 1.3.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 1.3.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 1.3.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | BETA 1.3.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/1.6.1.0/lrXV5DtqdqnCMFAqMctsXWmZyjLeZxHF/installer.exe |
@@ -34,8 +28,6 @@
 # Wuthering waves 1.4 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| Live 1.4.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json |
-| Live 1.4.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 1.4.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 1.4.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | BETA 1.4.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/1.6.4.0/DzShblKI5z3ylF1eRFo6yTgnvnZiJVLa/installer.exe |
@@ -44,8 +36,6 @@
 # Wuthering waves 2.0 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| Live 2.0.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json |
-| Live 2.0.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 2.0.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 2.0.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | BETA 2.0.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/1.7.1.0/cDKioEuJvj9zCC9Q04iF3pNG2JBm9rhj/installer.exe |
@@ -54,8 +44,6 @@
 # Wuthering waves 2.1 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| Live 2.1.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json |
-| Live 2.1.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 2.1.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 2.1.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | BETA 2.1.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/1.7.1.0/cDKioEuJvj9zCC9Q04iF3pNG2JBm9rhj/installer.exe |
@@ -64,8 +52,6 @@
 # Wuthering waves 2.2 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| Live 2.2.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json |
-| Live 2.2.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 2.2.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 2.2.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | BETA 2.2.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/pcstarter/prod/starter/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/2.0.0.0/vgu4E1bmg2r5GMCydmVPcIvKpVwqdqDl/installer.exe |
@@ -75,8 +61,6 @@
 # Wuthering waves 2.3 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| Live 2.3.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json |
-| Live 2.3.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 2.3.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 2.3.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | BETA 2.3.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/2.0.0.0/cBgFfkJmkYtbRDmXhvIOCPyPIDCqMxgK/launcher.zip |
@@ -85,8 +69,6 @@
 # Wuthering waves 2.4 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| Live 2.4.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json |
-| Live 2.4.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 2.4.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 2.4.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | BETA 2.4.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/2.1.2.0/CoMkXwElzztlxatRSCvuhSgSPyOohZNI/launcher.zip |
@@ -95,9 +77,15 @@
 # Wuthering waves 2.5 BETA 
 | Version | File name | Download link|
 | :--- | :--- | :--- |
-| Live 2.5.0 | Launcher.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/G152/index.json |
-| Live 2.5.0 | Game.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10003_Y8xXrXk65DqFHEDgApn3cpK5lfczpFx5/index.json |
 | BETA 2.5.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
 | BETA 2.5.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
 | BETA 2.5.0 | installer.exe | https://pcdownload-huoshan.aki-game.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/2.2.0.0/bvVPYjHPpfDjoBDJMkzEkZgdzOgBObTF/launcher.zip |
 | BETA 2.5.0 | resource.json | https://beta-pcdownload-huoshan.aki-game.com/launcher/game/G152/10008/2.5.1/UwzMRFJBBipgUTKVIEpZpEDEWCBQfJju/resource.json |
+
+# Wuthering waves 2.6 BETA 
+| Version | File name | Download link|
+| :--- | :--- | :--- |
+| BETA 2.6.0 | LauncherBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/launcher/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/G152/index.json |
+| BETA 2.6.0 | GameBeta.json | https://prod-cn-alicdn-gamestarter.kurogame.com/launcher/game/G152/10008_Pa0Q0EMFxukjEqX33pF9Uyvdc8MaGPSz/index.json |
+| BETA 2.6.0 | installer.exe |  |
+| BETA 2.6.0 | resource.json |  |
