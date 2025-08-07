@@ -62,5 +62,5 @@
 | :--- | :--- | :--- |
 | BETA 2.6.0 | LauncherBeta.json | https://prod-volcdn-gamestarter.kurogame.net/launcher/launcher/50013_HiDX7UaJOXpKl3pigJwVxhg5z1wllus5/G153/index.json |
 | BETA 2.6.0 | GameBeta.json | https://prod-alicdn-gamestarter.kurogame.com/launcher/game/G153/50013_HiDX7UaJOXpKl3pigJwVxhg5z1wllus5/index.json |
-| BETA 2.6.0 | installer.exe |  |
-| BETA 2.6.0 | resource.json |  |
+| BETA 2.6.0 | installer.exe | https://hw-pcdownload-qcloud.aki-game.net/launcher/launcher/50013_HiDX7UaJOXpKl3pigJwVxhg5z1wllus5/G153/2.2.0.0/UzskZnCgJBFcNwFPPmvYMYKvAGUDaXvm/launcher.zip |
+| BETA 2.6.0 | resource.json | https://beta-pcdownload-qcloud.aki-game.net/launcher/game/G153/50013/2.6.0/EbEAtWgpccTFeaMiWnSYcKOJxQWDJTxR/resource.json |
